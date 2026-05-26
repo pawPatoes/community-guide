@@ -32,7 +32,7 @@ description: >-
 - songAdd.php
   - Reuploads a song to the GDPS.
 - cron.php
-  - Runs the CRON job.
+  - Runs the CRON job. Which autobans people with suspicous stats, fixes creator points, fixes account names ect..
 - dailyTable.php
   - Lists all daily levels ever.
 - modActions.php
